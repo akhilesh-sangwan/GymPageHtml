@@ -1,0 +1,2 @@
+# GymPageHtml
+Static Web page
